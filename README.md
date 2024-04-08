@@ -1,5 +1,4 @@
 # GitHub 漫游指南
-
 > 漫游，即随意游玩~。
 
 在线阅读：[GitHub 漫游指南](http://github.phodal.com/)，下载：[pdf](https://github.com/phodal/github-roam/raw/gh-pages/github-roam.pdf)、[mobi](https://github.com/phodal/github-roam/raw/gh-pages/github-roam.mobi)、[epub](https://github.com/phodal/github-roam/raw/gh-pages/github-roam.epub)
